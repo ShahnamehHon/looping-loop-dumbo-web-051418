@@ -3,7 +3,8 @@ def looping
 	  wingardium_leviosa = wl
 	  wl = 0
 	  wl += 1
-	  puts
+	  puts "Wingardium Leviosa"
+	end
 end
 
 #call your method here
