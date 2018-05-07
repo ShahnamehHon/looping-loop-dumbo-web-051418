@@ -4,6 +4,6 @@ def looping
 	  wl += 1
 	  puts "Wingardium Leviosa #{wl}"
 	end
-
+end
 
 looping
